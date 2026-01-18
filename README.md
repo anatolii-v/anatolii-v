@@ -1,4 +1,4 @@
-## Hi there 👋
+## Senior QA Engineer (6+ yrs) | Manual & Automation Testing, DevOps Basics | SDET | Ensuring Stable Releases & Faster Delivery
 
 <!--
 **anatolii-v/anatolii-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
