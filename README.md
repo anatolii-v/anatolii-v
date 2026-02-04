@@ -3,16 +3,16 @@
 ## My technical Toolkit
 
 ### Automation Testing (Architectural & Strategic)**
-* **Core Tech:** `Python (Expert)`, `Playwright`, `Selenium WebDriver`, `Pytest`.
+* **Core Tech:** `Playwright`, `Selenium WebDriver`, `Cypress`, `JavaScript/TypeScript`, `Python`
 * **Design Patterns:** Page Object Model (POM), Factory Pattern, Data-Driven Testing (DDT).
 * **Specialized Testing:** API Automation (REST/SOAP), BDD (Cucumber/Gherkin).
 * **Optimization:** Parallel execution, flakiness reduction, and custom library development.
 
 ### DevOps & Quality Infrastructure**
 * **CI/CD Orchestration:** `Jenkins`, `GitLab CI`, `GitHub Actions`
-* **Containerization:** `Docker` & `Kubernetes`
+* **Containerization:** `Docker`, `Kubernetes`
 * **Cloud & Version Control:** `AWS`, `Git`
-* **Observability:** `Allure`, `ReportPortal`, and root-cause analysis via logs.
+* **Observability:** `Allure`, root-cause analysis via logs.
 
 ### Strategic Manual Testing & Quality Analysis**
 * **Test Management:** Risk-Based Testing (RBT), Test Plan/Strategy authorship (`TestRail`, `Jira`).
