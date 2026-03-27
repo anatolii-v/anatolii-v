@@ -30,8 +30,8 @@
 
 <!-- **BSecurity Testing:** -->
 
-**Manual Testing:**
+**Quality Strategy & Analysis:**
 ![Test Planning](https://img.shields.io/badge/Test_Planning-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-FF6B6B?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-FF0000?style=for-the-badge&logo=jira&logoColor=white)
+![Defect Lifecycle Management](https://img.shields.io/badge/Bug_Reporting-FF0000?style=for-the-badge&logo=jira&logoColor=white)
 ![Testing Artifacts](https://img.shields.io/badge/Testing_Artifacts-6D6D6D?style=for-the-badge&logo=readthedocs&logoColor=white)
