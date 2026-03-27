@@ -33,5 +33,7 @@
 **Quality Strategy & Analysis:**
 ![Test Planning](https://img.shields.io/badge/Test_Planning-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-FF6B6B?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Defect Lifecycle Management](https://img.shields.io/badge/Bug_Reporting-FF0000?style=for-the-badge&logo=jira&logoColor=white)
+![API Validation](https://img.shields.io/badge/API_Validation-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Database Validation](https://img.shields.io/badge/Database_Validation-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Defect Lifecycle Management](https://img.shields.io/badge/Defect_Lifecycle_Management-FF0000?style=for-the-badge&logo=jira&logoColor=white)
 ![Testing Artifacts](https://img.shields.io/badge/Testing_Artifacts-6D6D6D?style=for-the-badge&logo=readthedocs&logoColor=white)
