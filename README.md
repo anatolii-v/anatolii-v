@@ -33,6 +33,6 @@
 **Foundation Skills:**
 ![Test Documentation](https://img.shields.io/badge/Test_Documentation-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-FF6B6B?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![API & Database validation](https://img.shields.io/badge/API_&_Database_validation-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Database Validation](https://img.shields.io/badge/Database_Validation-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Defect Lifecycle Management](https://img.shields.io/badge/Defect_Lifecycle_Management-FF0000?style=for-the-badge&logo=jira&logoColor=white)
 ![Test Analysis & Risk Assessment](https://img.shields.io/badge/Test_Analysis_&_Risk_Assessment-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
