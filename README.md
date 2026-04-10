@@ -9,6 +9,8 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Fiddler](https://img.shields.io/badge/Fiddler-5B2D8E?style=for-the-badge&logo=progress&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-F2F2F2?style=for-the-badge&logo=wirecloud&logoColor=black)
 
 **Languages:**
 
