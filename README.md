@@ -9,8 +9,6 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Fiddler](https://img.shields.io/badge/Fiddler-5B2D8E?style=for-the-badge&logo=progress&logoColor=white)
-![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-F2F2F2?style=for-the-badge&logo=wirecloud&logoColor=black)
 
 **Languages:**
 
@@ -20,9 +18,6 @@
 **Automation Testing:**
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 **CI/CD:**
 
