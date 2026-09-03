@@ -1,14 +1,14 @@
-**QA Strategy & Risk Analysis:**
+**QA Theory & Risk Analysis:**
 
 ![Test Design](https://img.shields.io/badge/Test_Design-1F4E78?style=for-the-badge&logo=trello&logoColor=white)
 ![Defect Lifecycle Management](https://img.shields.io/badge/Defect_Lifecycle_Management-FF0000?style=for-the-badge&logo=jira&logoColor=white)
-![Test Documentation](https://img.shields.io/badge/Test_Documentation-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
+![Documentation](https://img.shields.io/badge/Test_Documentation-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-FF6B6B?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 **API Testing:**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 
 **Languages:**
 
